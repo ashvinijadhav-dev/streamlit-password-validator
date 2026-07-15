@@ -35,3 +35,8 @@ streamlit run psw.py
 **Ashvini Jadhav**
 
 Learning Python and Data Science 🚀
+
+
+## 🌐 Live Demo
+
+[Click here to try the Password Validator](https://app-password-validator-hzn5fzwfogd8bugurzq8bw.streamlit.app/)
